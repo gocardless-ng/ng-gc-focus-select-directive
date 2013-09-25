@@ -1,6 +1,6 @@
-# ng-gc-focus-select
+# ng-gc-focus-select-directive
 
-![](https://circleci.com/gh/gocardless-ng/ng-gc-focus-select.png?circle-token=:circle-token)
+![](https://circleci.com/gh/gocardless-ng/ng-gc-focus-select-directive.png?circle-token=:circle-token)
 
 ## Copyright and license
 

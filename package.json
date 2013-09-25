@@ -1,12 +1,12 @@
 {
-  "name": "ng-gc-focus-select",
+  "name": "ng-gc-focus-select-directive",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gocardless-ng/ng-gc-focus-select.git"
+    "url": "git://github.com/gocardless-ng/ng-gc-focus-select-directive.git"
   },
   "bugs": {
-    "url": "http://github.com/gocardless-ng/ng-gc-focus-select/issues"
+    "url": "http://github.com/gocardless-ng/ng-gc-focus-select-directive/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

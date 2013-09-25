@@ -15,7 +15,7 @@ module.exports = function(config) {
       // Specs helpers
       'components/jasmine-helpers/*.js',
 
-      'ng-gc-focus-select*.js'
+      'ng-gc-focus-select-directive*.js'
     ],
 
 
